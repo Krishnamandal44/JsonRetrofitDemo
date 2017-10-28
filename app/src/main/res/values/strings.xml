@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JsonRetrofitDemo</string>
+    <string name="base_url">https://api.myjson.com</string>
+</resources>
